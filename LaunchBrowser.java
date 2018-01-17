@@ -23,7 +23,6 @@ public class LaunchBrowser {
 		}
 
 		// Get current URL
-
 		String url = driver.getCurrentUrl();
 		System.out.println("The url of this page is: " + url);
 
